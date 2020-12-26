@@ -1,18 +1,13 @@
-# 🇺🇸 linter-american
+# linter-british
 
 > [Linter](https://github.com/atom-community/linter) to make American spelling
-> great again.
-
-![](https://github.com/dfrankland/linter-american/raw/master/screenshot.png)
+> British again.
 
 ## Install
+Currently not on the Atom Package repository.
 
-```bash
-apm install linter-american
-```
+## Acknowledgements
+Forked from [linter-american](https://github.com/dfrankland/linter-american/) by Dylan Frankland
 
-Or, Settings → Install → Search for `linter-american`.
-
-## Usage
-
-Write some code!
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
