@@ -14,21 +14,21 @@ export const deactivate = () => {
 }
 
 export const provideLinter = () => ({
-  name: 'British',
+  name: 'linter-british',
   scope: 'file',
   lintsOnChange: true,
   grammarScopes: ['*'],
   lint: async textEditor => {
     if (!activated) return []
 
-    if (atom.inDevMode()) console.time('lint-british') // eslint-disable-line no-console
+    if (atom.inDevMode()) console.time('linter-british') // eslint-disable-line no-console
 
     const editorPath = textEditor.getPath()
     const editorText = textEditor.buffer.getText()
 
     const results = lint(editorPath, editorText)
 
-    if (atom.inDevMode()) console.timeEnd('lint-british') // eslint-disable-line no-console
+    if (atom.inDevMode()) console.timeEnd('linter-british') // eslint-disable-line no-console
 
     return results
   }
