@@ -47,14 +47,21 @@ module.exports = [
     american: 'apologize',
   },
   {
-    british: 'organise',
-    american: 'organize',
+    british: 'utilis',
+    american: 'utiliz',
   },
   {
-    british: 'recognise',
-    american: 'recognize',
+    british: 'organis',
+    american: 'organiz',
   },
-
+  {
+    british: 'recognis',
+    american: 'recogniz',
+  },
+  {
+    british: 'realis',
+    american: 'realiz'
+  },
   /* Words ending in -yse */
   {
     british: 'analyse',

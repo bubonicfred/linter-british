@@ -1,11 +1,11 @@
 {
-  "name": "linter-american",
+  "name": "linter-british",
   "main": "index.js",
-  "version": "1.0.0",
-  "description": "🇺🇸 Make American spelling great again.",
+  "version": "0.1.0",
+  "description": "Make American spelling great again.",
   "keywords": [
-    "linter-american",
-    "american"
+    "linter-british",
+    "british"
   ],
   "engines": {
     "atom": ">=1.4.0 <2.0.0"
@@ -19,7 +19,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dfrankland/linter-american.git"
+    "url": "git+https://github.com/bubonicfred/linter-british.git"
   },
   "author": "Dylan Frankland",
   "license": "MIT",

@@ -34,11 +34,11 @@ const findSpelling = file => (allLineMatches, lineContents, lineNumber) => (
         file,
         position: [[lineNumber, 0], [lineNumber, 1]],
       },
-      excerpt: `🇺🇸 A true American would spell this "${american}"!`,
-      description: '> _This is un-American._ Please, make American spelling great again.',
+      excerpt: `You should spell this "${british}"!`,
+      description: '> _This is American._ ',
     });
     const matchFinder = createMatchFinder(merger);
-    return matchFinder(lineContents, new RegExp(british, 'gi'));
+    return matchFinder(lineContents, new RegExp(american, 'gi'));
   }))
 );
 
