@@ -2,159 +2,55 @@
 
 module.exports = [
   /* Words ending in -re */
-  {
-    british: 'centre',
-    american: 'center'
-  },
-  {
-    british: 'fibre',
-    american: 'fiber'
-  },
-  {
-    british: 'litre',
-    american: 'liter'
-  },
-  {
-    british: 'theatre',
-    american: 'theater'
-  },
+  ['centre', 'center'],
+  ['fibre', 'fiber'],
+  ['litre', 'liter'],
+  ['theatre', 'theater'],
 
   /* Words ending in -our */
-  {
-    british: 'colour',
-    american: 'color'
-  },
-  {
-    british: 'flavour',
-    american: 'flavor'
-  },
-  {
-    british: 'humour',
-    american: 'humor'
-  },
-  {
-    british: 'labour',
-    american: 'labor'
-  },
-  {
-    british: 'neighbour',
-    american: 'neighbor'
-  },
+  ['colour', 'color'],
+  ['flavour', 'flavor'],
+  ['humour', 'humor'],
+  ['labour', 'labor'],
+  ['neighbour', 'neighbor'],
 
   /* Words ending in -ise */
-  {
-    british: 'apologise',
-    american: 'apologize'
-  },
-  {
-    british: 'utilise',
-    american: 'utilize'
-  },
-  {
-    british: 'organise',
-    american: 'organize'
-  },
-  {
-    british: 'recognise',
-    american: 'recognize'
-  },
-  {
-    british: 'realise',
-    american: 'realize'
-  },
+  ['apologise', 'apologize'],
+  ['utilise', 'utilize'],
+  ['organise', 'organize'],
+  /* Variant */
+  ['organisation', 'organization'],
+  ['recognise', 'recognize'],
+  ['realise', 'realize'],
   /* Words ending in -yse */
-  {
-    british: 'analyse',
-    american: 'analyze'
-  },
-  {
-    british: 'breathalyse',
-    american: 'breathalyze'
-  },
-  {
-    british: 'paralyse',
-    american: 'paralyze'
-  },
+  ['analyse', 'analyze'],
+  ['breathalyse', 'breathalyze'],
+  ['paralyse', 'paralyze'],
 
   /* Words ending in a vowel plus l */
-  {
-    british: 'travelled',
-    american: 'traveled'
-  },
-  {
-    british: 'travelling',
-    american: 'traveling'
-  },
-  {
-    british: 'traveller',
-    american: 'traveler'
-  },
-  {
-    british: 'fuelled',
-    american: 'fueled'
-  },
-  {
-    british: 'fuelling',
-    american: 'fueling'
-  },
+  ['travelled', 'traveled'],
+  ['travelling', 'traveling'],
+  ['fuelled', 'fueled'],
+  ['fuelling', 'fueling'],
 
   /* Words spelled with double vowels */
-  {
-    british: 'leukaemia',
-    american: 'leukemia'
-  },
-  {
-    british: 'manoeuvre',
-    american: 'maneuver'
-  },
-  {
-    british: 'oestrogen',
-    american: 'estrogen'
-  },
-  {
-    british: 'paediatric',
-    american: 'pediatric'
-  },
+  ['leukaemia', 'leukemia'],
+  ['manoeuvre', 'maneuver'],
+  ['oestrogen', 'estrogen'],
+  ['paediatric', 'pediatric'],
 
   /* Nouns ending with –ence */
-  {
-    british: 'defence',
-    american: 'defense'
-  },
-  {
-    british: 'licence',
-    american: 'license'
-  },
-  {
-    british: 'offence',
-    american: 'offense'
-  },
-  {
-    british: 'pretence',
-    american: 'pretense'
-  },
+  ['defence', 'defense'],
+  ['licence', 'license'],
+  ['offence', 'offense'],
+  ['pretence', 'pretense'],
 
   /* Nouns ending with –ogue */
-  {
-    british: 'analogue',
-    american: 'analog'
-  },
-  {
-    british: 'catalogue',
-    american: 'catalog'
-  },
-  {
-    british: 'dialogue',
-    american: 'dialog'
-  },
+  ['analogue', 'analog'],
+  ['catalogue', 'catalog'],
+  ['dialogue', 'dialog'],
 
   /* others */
-  {
-    british: 'grey',
-    american: 'gray'
-  },
-  {
-    british: 'favourite',
-    american: 'favorite'
-  }
+  ['grey', 'gray'],
+  ['favourite', 'favorite'],
 ]
