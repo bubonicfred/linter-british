@@ -3,7 +3,7 @@
 [![standard-readme compliant](https://img.shields.io/badge/standard--readme-OK-green.svg?style=flat-square)](https://github.com/RichardLitt/standard-readme)
 TODO: Put more badges here.
 
-Atom [Linter](https://github.com/atom-community/linter) to spot American spellings and suggest Britsh replacement.
+Atom [Linter](https://github.com/atom-community/linter) to spot American spellings and suggest British replacements.
 
 
 ## Background
