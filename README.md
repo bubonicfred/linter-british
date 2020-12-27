@@ -1,48 +1,35 @@
-# linter-british
+# Linter British _(linter-british)_
 
-> Make American spelling British again.
+[![standard-readme compliant](https://img.shields.io/badge/standard--readme-OK-green.svg?style=flat-square)](https://github.com/RichardLitt/standard-readme)
+TODO: Put more badges here.
 
-background details relevant to understanding what this module does
+Atom [Linter](https://github.com/atom-community/linter) to spot American spellings and suggest Britsh replacement.
 
-## Usage
 
-```js
-var linterBritish = require('linter-british')
+## Background
 
-console.log('hello warld')
-```
-
-outputs
-
-```
-hello warld
-```
-
-## API
-
-```js
-var linterBritish = require('linter-british')
-```
-
-See [api_formatting.md](api_formatting.md) for tips.
+Forked from [linter-american](https://github.com/dfrankland/linter-american/) by Dylan Frankland
 
 ## Install
 
-With [npm](https://npmjs.org/) installed, run
+TODO Fill this out
 
-```
-$ npm install linter-british
-```
+## Usage
 
-## Acknowledgments
+TODO Fill this out
 
-linter-british was inspired by..
+## Maintainers
 
-## See Also
+[@bubonicfred](https://github.com/bubonicfred)
 
--   [`noffle/common-readme`](https://github.com/noffle/common-readme)
--   ...
+## Contributing
+
+PRs accepted.
+
+Small note: If editing the README, please conform to the [standard-readme](https://github.com/RichardLitt/standard-readme) specification.
 
 ## License
 
-MIT
+MIT © 2020 Ciaran Welch
+    © 2017 Dylan Frankland
+SEE LICENSE IN LICENSE.md
