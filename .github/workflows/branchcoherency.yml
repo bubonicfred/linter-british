@@ -10,5 +10,6 @@ on:
 
     steps:
     - uses: planetoftheweb/coherency@1.0.0
+    - name: Branch Coherency
 
    
