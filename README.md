@@ -33,4 +33,3 @@ Small note: If editing the README, please conform to the [standard-readme](https
 MIT © 2020 Ciaran Welch
     © 2017 Dylan Frankland
 SEE LICENSE IN LICENSE.md
-
