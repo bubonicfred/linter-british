@@ -15,10 +15,11 @@
     "british"
   ],
   "license": "MIT",
-  "main": "index.js",
+  "main": "./index.js",
   "name": "linter-british",
   "package-deps": [
     "linter:2.0.0"
+  ],
   "providedServices": {
     "linter": {
       "versions": {

@@ -1,8 +1,4 @@
-<<<<<<< HEAD:lib/lint.js
-const list = require('list');
-=======
 const list = require('./list')
->>>>>>> parent of ae21df4... update folder structure:lint.js
 
 const createMatchObjectMerger = matchObject => (start, end) => {
   const newMatchObject = matchObject
