@@ -1,13 +1,35 @@
-# linter-british
+# Linter British _(linter-british)_
 
-> [Linter](https://github.com/atom-community/linter) to make American spelling
-> British again.
+[![standard-readme compliant](https://img.shields.io/badge/standard--readme-OK-green.svg?style=flat-square)](https://github.com/RichardLitt/standard-readme)
+TODO: Put more badges here.
 
-## Install
-Currently not on the Atom Package repository.
+Atom [Linter](https://github.com/atom-community/linter) to spot American spellings and suggest British replacements.
 
-## Acknowledgements
+
+## Background
+
 Forked from [linter-american](https://github.com/dfrankland/linter-american/) by Dylan Frankland
 
+## Install
+
+TODO Fill this out
+
+## Usage
+
+TODO Fill this out
+
+## Maintainers
+
+[@bubonicfred](https://github.com/bubonicfred)
+
+## Contributing
+
+PRs accepted.
+
+Small note: If editing the README, please conform to the [standard-readme](https://github.com/RichardLitt/standard-readme) specification.
+
 ## License
-[MIT](https://choosealicense.com/licenses/mit/)
+
+MIT © 2020 Ciaran Welch
+    © 2017 Dylan Frankland
+SEE LICENSE IN LICENSE.md
