@@ -1,0 +1,14 @@
+name: Branch Coherency
+
+on:
+  schedule:
+  - cron: "30 1 * * *"
+
+
+  uses: 
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: planetoftheweb/coherency@1.0.0
+
+   
